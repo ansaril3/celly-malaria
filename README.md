@@ -8,6 +8,6 @@ This data project can be used for image detection and classification. It contain
 
     * ann folder,  contains annotation files, each named source_media_file_name.json for the corresponding file
 
-    * img (video or pointcloud) optional folder, contains source media
+    * img optional folder, contains source media
 
 Read for details [here](https://docs.supervise.ly/data-organization/00_ann_format_navi/01_project_structure_new).
