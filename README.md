@@ -1,6 +1,6 @@
 # Data project for Smartphone Application for Accurate Counting of Malaria Parasites in Thin Smears using Deep Learning
 
-This data project can be used for image detection. It contains following files:
+This data project can be used for image detection and classification. It contains following files:
 
 * meta.json file for cell types description 
 
