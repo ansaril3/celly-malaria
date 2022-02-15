@@ -1,6 +1,6 @@
 # Data project for Smartphone Application for Accurate Counting of Malaria Parasites in Thin Smears using Deep Learning
 
-This data project can be used for image detection and classification. It contains following files:
+This dataset (8 images, 1398 cells) can be used for image detection and classification in malaria thin smears. It contains following files:
 
 * meta.json file for cell types description 
 
