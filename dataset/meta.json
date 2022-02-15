@@ -1,0 +1,174 @@
+{
+    "classes": [
+        {
+            "title": "R.RBC",
+            "shape": "rectangle",
+            "color": "#B9F6CA",
+            "geometry_config": {},
+            "id": 2873660,
+            "hotkey": ""
+        },
+        {
+            "title": "F.Trophozoite",
+            "shape": "rectangle",
+            "color": "#D50000",
+            "geometry_config": {},
+            "id": 2873661,
+            "hotkey": ""
+        },
+        {
+            "title": "V.Shizont",
+            "shape": "rectangle",
+            "color": "#E53935",
+            "geometry_config": {},
+            "id": 2873662,
+            "hotkey": ""
+        },
+        {
+            "title": "V.Trophozoite",
+            "shape": "rectangle",
+            "color": "#D32F2F",
+            "geometry_config": {},
+            "id": 2873663,
+            "hotkey": ""
+        },
+        {
+            "title": "V.Gametocyte",
+            "shape": "rectangle",
+            "color": "#B71C1C",
+            "geometry_config": {},
+            "id": 2873664,
+            "hotkey": ""
+        },
+        {
+            "title": "Column",
+            "shape": "rectangle",
+            "color": "#8B572A",
+            "geometry_config": {},
+            "id": 2873665,
+            "hotkey": ""
+        },
+        {
+            "title": "F.Column Infected",
+            "shape": "rectangle",
+            "color": "#FD341C",
+            "geometry_config": {},
+            "id": 2873666,
+            "hotkey": ""
+        },
+        {
+            "title": "N.Band",
+            "shape": "rectangle",
+            "color": "#42A5F5",
+            "geometry_config": {},
+            "id": 2873667,
+            "hotkey": ""
+        },
+        {
+            "title": "N.Neutrophil",
+            "shape": "rectangle",
+            "color": "#2196F3",
+            "geometry_config": {},
+            "id": 2873668,
+            "hotkey": ""
+        },
+        {
+            "title": "E.Eosinophil",
+            "shape": "rectangle",
+            "color": "#AC10E0",
+            "geometry_config": {},
+            "id": 2873669,
+            "hotkey": ""
+        },
+        {
+            "title": "M.Monocyte",
+            "shape": "rectangle",
+            "color": "#1565C0",
+            "geometry_config": {},
+            "id": 2873670,
+            "hotkey": ""
+        },
+        {
+            "title": "L.SmallLymphocyte",
+            "shape": "rectangle",
+            "color": "#9FA8DA",
+            "geometry_config": {},
+            "id": 2873671,
+            "hotkey": ""
+        },
+        {
+            "title": "L.LargeLymphocyte",
+            "shape": "rectangle",
+            "color": "#3949AB",
+            "geometry_config": {},
+            "id": 2873672,
+            "hotkey": ""
+        },
+        {
+            "title": "L.GranularLymphocyte",
+            "shape": "rectangle",
+            "color": "#1A237E",
+            "geometry_config": {},
+            "id": 2873673,
+            "hotkey": ""
+        },
+        {
+            "title": "P.Platelet",
+            "shape": "rectangle",
+            "color": "#E934DC",
+            "geometry_config": {},
+            "id": 2873674,
+            "hotkey": ""
+        },
+        {
+            "title": "O.Artefact",
+            "shape": "rectangle",
+            "color": "#F8E71C",
+            "geometry_config": {},
+            "id": 2873675,
+            "hotkey": ""
+        },
+        {
+            "title": "O.Cut",
+            "shape": "rectangle",
+            "color": "#18FFFF",
+            "geometry_config": {},
+            "id": 2873676,
+            "hotkey": ""
+        },
+        {
+            "title": "B.Basophil",
+            "shape": "rectangle",
+            "color": "#9013FE",
+            "geometry_config": {},
+            "id": 2873677,
+            "hotkey": ""
+        },
+        {
+            "title": "Dummy_rbc",
+            "shape": "rectangle",
+            "color": "#B1B1B1",
+            "geometry_config": {},
+            "id": 2873678,
+            "hotkey": ""
+        },
+        {
+            "title": "RBC Probably Infected",
+            "shape": "rectangle",
+            "color": "#F5A623",
+            "geometry_config": {},
+            "id": 2873679,
+            "hotkey": ""
+        },
+        {
+            "title": "PLT Aggregate",
+            "shape": "rectangle",
+            "color": "#F83070",
+            "geometry_config": {},
+            "id": 2873680,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

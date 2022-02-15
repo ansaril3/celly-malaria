@@ -1,0 +1,6346 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1512,
+        "width": 2016
+    },
+    "objects": [
+        {
+            "id": 650051571,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        699,
+                        981
+                    ],
+                    [
+                        794,
+                        1086
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051570,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        921,
+                        1273
+                    ],
+                    [
+                        1009,
+                        1356
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051569,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1061,
+                        1288
+                    ],
+                    [
+                        1154,
+                        1382
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051568,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1148,
+                        1237
+                    ],
+                    [
+                        1243,
+                        1328
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051567,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        674,
+                        244
+                    ],
+                    [
+                        777,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051566,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1180,
+                        224
+                    ],
+                    [
+                        1272,
+                        310
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051565,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1765,
+                        643
+                    ],
+                    [
+                        1868,
+                        753
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051564,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1407,
+                        877
+                    ],
+                    [
+                        1488,
+                        963
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051563,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1489,
+                        853
+                    ],
+                    [
+                        1565,
+                        943
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051562,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1428,
+                        774
+                    ],
+                    [
+                        1524,
+                        862
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051561,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        1237
+                    ],
+                    [
+                        837,
+                        1336
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051560,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        804,
+                        1316
+                    ],
+                    [
+                        902,
+                        1417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051559,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        860,
+                        1409
+                    ],
+                    [
+                        936,
+                        1508
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051558,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        935,
+                        1412
+                    ],
+                    [
+                        1031,
+                        1512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051557,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        700,
+                        1330
+                    ],
+                    [
+                        785,
+                        1417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051556,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        574,
+                        1275
+                    ],
+                    [
+                        649,
+                        1378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051555,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        658,
+                        1245
+                    ],
+                    [
+                        740,
+                        1368
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051554,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        501,
+                        1453
+                    ],
+                    [
+                        583,
+                        1512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051553,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        343,
+                        1227
+                    ],
+                    [
+                        448,
+                        1349
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051552,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        1461
+                    ],
+                    [
+                        439,
+                        1512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051551,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        477,
+                        1276
+                    ],
+                    [
+                        565,
+                        1367
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051550,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        871,
+                        1089
+                    ],
+                    [
+                        967,
+                        1194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051549,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        688,
+                        1115
+                    ],
+                    [
+                        792,
+                        1208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051548,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1720,
+                        1355
+                    ],
+                    [
+                        1815,
+                        1453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051547,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        914,
+                        1193
+                    ],
+                    [
+                        1038,
+                        1275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051546,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1058,
+                        1196
+                    ],
+                    [
+                        1167,
+                        1280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051545,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        243,
+                        1263
+                    ],
+                    [
+                        316,
+                        1352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051544,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        1037
+                    ],
+                    [
+                        480,
+                        1154
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051543,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        1042
+                    ],
+                    [
+                        571,
+                        1139
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051542,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        314,
+                        1091
+                    ],
+                    [
+                        412,
+                        1194
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051541,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1683,
+                        1214
+                    ],
+                    [
+                        1779,
+                        1312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051540,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1849,
+                        1232
+                    ],
+                    [
+                        1952,
+                        1342
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051539,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1898,
+                        801
+                    ],
+                    [
+                        2011,
+                        879
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051538,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        169,
+                        625
+                    ],
+                    [
+                        265,
+                        719
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051537,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        238,
+                        693
+                    ],
+                    [
+                        335,
+                        805
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051536,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        748
+                    ],
+                    [
+                        408,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051535,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        748
+                    ],
+                    [
+                        523,
+                        842
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051534,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        437,
+                        860
+                    ],
+                    [
+                        529,
+                        953
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051533,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1003,
+                        1128
+                    ],
+                    [
+                        1087,
+                        1225
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051532,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1061,
+                        639
+                    ],
+                    [
+                        1158,
+                        732
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051531,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1143,
+                        626
+                    ],
+                    [
+                        1232,
+                        720
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051530,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1175,
+                        857
+                    ],
+                    [
+                        1278,
+                        939
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051529,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1262,
+                        802
+                    ],
+                    [
+                        1360,
+                        917
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051528,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        796,
+                        854
+                    ],
+                    [
+                        907,
+                        945
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051527,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        772,
+                        922
+                    ],
+                    [
+                        861,
+                        1002
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051526,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        854,
+                        648
+                    ],
+                    [
+                        934,
+                        737
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051525,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        923,
+                        703
+                    ],
+                    [
+                        1026,
+                        789
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051524,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        990,
+                        722
+                    ],
+                    [
+                        1114,
+                        815
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051523,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1050,
+                        788
+                    ],
+                    [
+                        1136,
+                        884
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051522,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        897,
+                        797
+                    ],
+                    [
+                        981,
+                        906
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051521,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        940,
+                        891
+                    ],
+                    [
+                        1018,
+                        966
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051520,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        923,
+                        625
+                    ],
+                    [
+                        1017,
+                        719
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051519,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        764,
+                        674
+                    ],
+                    [
+                        856,
+                        761
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051518,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        788,
+                        600
+                    ],
+                    [
+                        872,
+                        682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051517,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        714,
+                        577
+                    ],
+                    [
+                        781,
+                        687
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051516,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        637,
+                        716
+                    ],
+                    [
+                        728,
+                        797
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051515,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        586
+                    ],
+                    [
+                        408,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051514,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        554,
+                        554
+                    ],
+                    [
+                        644,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051513,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        631,
+                        629
+                    ],
+                    [
+                        728,
+                        715
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051512,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        703
+                    ],
+                    [
+                        185,
+                        806
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051511,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        141,
+                        779
+                    ],
+                    [
+                        296,
+                        868
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051510,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        836
+                    ],
+                    [
+                        439,
+                        929
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051509,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        403,
+                        634
+                    ],
+                    [
+                        500,
+                        722
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051508,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        426,
+                        576
+                    ],
+                    [
+                        547,
+                        676
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051507,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        519,
+                        723
+                    ],
+                    [
+                        619,
+                        827
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051506,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        513,
+                        654
+                    ],
+                    [
+                        634,
+                        752
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051505,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        92,
+                        554
+                    ],
+                    [
+                        188,
+                        645
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051504,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        18,
+                        604
+                    ],
+                    [
+                        115,
+                        695
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051503,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        713
+                    ],
+                    [
+                        89,
+                        806
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051502,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        335,
+                        936
+                    ],
+                    [
+                        434,
+                        1028
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051501,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        811
+                    ],
+                    [
+                        135,
+                        900
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051500,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        28,
+                        901
+                    ],
+                    [
+                        132,
+                        980
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051499,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        976
+                    ],
+                    [
+                        97,
+                        1069
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051498,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        823
+                    ],
+                    [
+                        23,
+                        908
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051497,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        866
+                    ],
+                    [
+                        348,
+                        968
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051496,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        108,
+                        1078
+                    ],
+                    [
+                        207,
+                        1161
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051495,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        92,
+                        1169
+                    ],
+                    [
+                        146,
+                        1251
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051494,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        1153
+                    ],
+                    [
+                        64,
+                        1230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051493,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1063
+                    ],
+                    [
+                        49,
+                        1142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051492,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        1248
+                    ],
+                    [
+                        112,
+                        1309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051491,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        1161
+                    ],
+                    [
+                        505,
+                        1259
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051490,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        486,
+                        1217
+                    ],
+                    [
+                        571,
+                        1283
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051489,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        1135
+                    ],
+                    [
+                        619,
+                        1222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051488,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        164,
+                        323
+                    ],
+                    [
+                        259,
+                        433
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051487,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        23,
+                        463
+                    ],
+                    [
+                        104,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051486,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        548,
+                        289
+                    ],
+                    [
+                        649,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051485,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        418,
+                        475
+                    ],
+                    [
+                        511,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051484,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        272,
+                        480
+                    ],
+                    [
+                        361,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051483,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        395,
+                        268
+                    ],
+                    [
+                        485,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051482,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        231
+                    ],
+                    [
+                        570,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051481,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        571,
+                        204
+                    ],
+                    [
+                        663,
+                        282
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051480,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        240
+                    ],
+                    [
+                        190,
+                        343
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051479,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        774,
+                        408
+                    ],
+                    [
+                        874,
+                        509
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051478,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        860,
+                        462
+                    ],
+                    [
+                        923,
+                        575
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051477,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        759,
+                        514
+                    ],
+                    [
+                        862,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051476,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        464
+                    ],
+                    [
+                        215,
+                        550
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051475,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        385
+                    ],
+                    [
+                        195,
+                        479
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051474,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        328,
+                        327
+                    ],
+                    [
+                        408,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051473,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        293,
+                        252
+                    ],
+                    [
+                        384,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051472,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        258
+                    ],
+                    [
+                        324,
+                        407
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051471,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        415
+                    ],
+                    [
+                        415,
+                        515
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051470,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        417
+                    ],
+                    [
+                        356,
+                        501
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051469,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        381
+                    ],
+                    [
+                        485,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051468,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        375
+                    ],
+                    [
+                        581,
+                        488
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051467,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        518,
+                        475
+                    ],
+                    [
+                        623,
+                        566
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051466,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        585,
+                        393
+                    ],
+                    [
+                        671,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051465,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        638,
+                        435
+                    ],
+                    [
+                        763,
+                        527
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051464,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        651,
+                        518
+                    ],
+                    [
+                        727,
+                        611
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051463,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        708,
+                        344
+                    ],
+                    [
+                        798,
+                        432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051462,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        534,
+                        832
+                    ],
+                    [
+                        630,
+                        928
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051461,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        558,
+                        906
+                    ],
+                    [
+                        638,
+                        997
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051460,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        627,
+                        874
+                    ],
+                    [
+                        701,
+                        1001
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051459,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        684,
+                        812
+                    ],
+                    [
+                        775,
+                        902
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051458,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        720,
+                        753
+                    ],
+                    [
+                        815,
+                        833
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051457,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        942,
+                        385
+                    ],
+                    [
+                        1026,
+                        478
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051456,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        912,
+                        539
+                    ],
+                    [
+                        1022,
+                        621
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051455,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        962,
+                        480
+                    ],
+                    [
+                        1042,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051454,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        784,
+                        296
+                    ],
+                    [
+                        867,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051453,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        288
+                    ],
+                    [
+                        118,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051452,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        354
+                    ],
+                    [
+                        71,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051451,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        784,
+                        1079
+                    ],
+                    [
+                        863,
+                        1171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051450,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        791,
+                        995
+                    ],
+                    [
+                        889,
+                        1078
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051449,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        617,
+                        1012
+                    ],
+                    [
+                        719,
+                        1132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051448,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        577,
+                        1052
+                    ],
+                    [
+                        662,
+                        1152
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051447,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        1291
+                    ],
+                    [
+                        142,
+                        1369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051446,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        1408
+                    ],
+                    [
+                        247,
+                        1488
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051445,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1064,
+                        1081
+                    ],
+                    [
+                        1147,
+                        1190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051444,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1257,
+                        1042
+                    ],
+                    [
+                        1339,
+                        1138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051443,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1244,
+                        1196
+                    ],
+                    [
+                        1357,
+                        1286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051442,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1265,
+                        1143
+                    ],
+                    [
+                        1396,
+                        1222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051441,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1155,
+                        1113
+                    ],
+                    [
+                        1252,
+                        1216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051440,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1164,
+                        1032
+                    ],
+                    [
+                        1260,
+                        1126
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051439,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1420,
+                        979
+                    ],
+                    [
+                        1512,
+                        1080
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051438,
+            "classId": 2873675,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Artefact",
+            "points": {
+                "exterior": [
+                    [
+                        935,
+                        985
+                    ],
+                    [
+                        1041,
+                        1099
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051437,
+            "classId": 2873678,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "Dummy_rbc",
+            "points": {
+                "exterior": [
+                    [
+                        1047,
+                        986
+                    ],
+                    [
+                        1136,
+                        1088
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051436,
+            "classId": 2873678,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "Dummy_rbc",
+            "points": {
+                "exterior": [
+                    [
+                        1009,
+                        898
+                    ],
+                    [
+                        1112,
+                        1005
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051435,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        977,
+                        821
+                    ],
+                    [
+                        1058,
+                        918
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051434,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1245,
+                        949
+                    ],
+                    [
+                        1358,
+                        1037
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051433,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1292,
+                        918
+                    ],
+                    [
+                        1410,
+                        1009
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051432,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1294,
+                        724
+                    ],
+                    [
+                        1371,
+                        805
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051431,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1143,
+                        761
+                    ],
+                    [
+                        1202,
+                        869
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051430,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1474,
+                        682
+                    ],
+                    [
+                        1566,
+                        785
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051429,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1194,
+                        743
+                    ],
+                    [
+                        1275,
+                        851
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051428,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1192,
+                        688
+                    ],
+                    [
+                        1299,
+                        766
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051427,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1037,
+                        420
+                    ],
+                    [
+                        1103,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051426,
+            "classId": 2873668,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "N.Neutrophil",
+            "points": {
+                "exterior": [
+                    [
+                        1229,
+                        465
+                    ],
+                    [
+                        1410,
+                        661
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051425,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1475,
+                        1335
+                    ],
+                    [
+                        1575,
+                        1440
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051424,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1574,
+                        1330
+                    ],
+                    [
+                        1665,
+                        1432
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051423,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1389,
+                        1385
+                    ],
+                    [
+                        1477,
+                        1488
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051422,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1297,
+                        1437
+                    ],
+                    [
+                        1406,
+                        1512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051421,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1562,
+                        1220
+                    ],
+                    [
+                        1648,
+                        1313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051420,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1622,
+                        1123
+                    ],
+                    [
+                        1704,
+                        1221
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051419,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1754,
+                        1158
+                    ],
+                    [
+                        1844,
+                        1256
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051418,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1829,
+                        1114
+                    ],
+                    [
+                        1921,
+                        1213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051417,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1769,
+                        1055
+                    ],
+                    [
+                        1862,
+                        1151
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051416,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1690,
+                        1052
+                    ],
+                    [
+                        1768,
+                        1158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051415,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1618,
+                        1449
+                    ],
+                    [
+                        1706,
+                        1512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051414,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1450,
+                        1469
+                    ],
+                    [
+                        1544,
+                        1512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051413,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1461,
+                        1252
+                    ],
+                    [
+                        1554,
+                        1329
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051412,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1472,
+                        1172
+                    ],
+                    [
+                        1590,
+                        1248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051411,
+            "classId": 2873678,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "Dummy_rbc",
+            "points": {
+                "exterior": [
+                    [
+                        1365,
+                        1214
+                    ],
+                    [
+                        1466,
+                        1297
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051410,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1527,
+                        1065
+                    ],
+                    [
+                        1621,
+                        1173
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051409,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1407,
+                        1104
+                    ],
+                    [
+                        1523,
+                        1213
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051408,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1355,
+                        1064
+                    ],
+                    [
+                        1472,
+                        1150
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051407,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1517,
+                        1001
+                    ],
+                    [
+                        1614,
+                        1071
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051406,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1628,
+                        979
+                    ],
+                    [
+                        1722,
+                        1075
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051405,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1645,
+                        908
+                    ],
+                    [
+                        1745,
+                        996
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051404,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1513,
+                        927
+                    ],
+                    [
+                        1622,
+                        1009
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051403,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1765,
+                        956
+                    ],
+                    [
+                        1886,
+                        1047
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051402,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1868,
+                        907
+                    ],
+                    [
+                        1964,
+                        1012
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051401,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1889,
+                        1057
+                    ],
+                    [
+                        1977,
+                        1187
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051400,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1942,
+                        1193
+                    ],
+                    [
+                        1993,
+                        1267
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051399,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1986,
+                        1104
+                    ],
+                    [
+                        2016,
+                        1176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051398,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1972,
+                        1017
+                    ],
+                    [
+                        2016,
+                        1111
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051397,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1991,
+                        931
+                    ],
+                    [
+                        2016,
+                        1002
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051396,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1761,
+                        880
+                    ],
+                    [
+                        1860,
+                        978
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051395,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1839,
+                        694
+                    ],
+                    [
+                        1938,
+                        799
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051394,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1956,
+                        687
+                    ],
+                    [
+                        2016,
+                        793
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051393,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1664,
+                        663
+                    ],
+                    [
+                        1757,
+                        751
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051392,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1800,
+                        781
+                    ],
+                    [
+                        1887,
+                        878
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051391,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1702,
+                        780
+                    ],
+                    [
+                        1813,
+                        875
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051390,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1579,
+                        799
+                    ],
+                    [
+                        1672,
+                        887
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051389,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1561,
+                        716
+                    ],
+                    [
+                        1673,
+                        813
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051388,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1868,
+                        575
+                    ],
+                    [
+                        1964,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051387,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1976,
+                        549
+                    ],
+                    [
+                        2016,
+                        646
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051386,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1773,
+                        546
+                    ],
+                    [
+                        1866,
+                        636
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051385,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1605,
+                        572
+                    ],
+                    [
+                        1679,
+                        693
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051384,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1681,
+                        462
+                    ],
+                    [
+                        1780,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051383,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1927,
+                        406
+                    ],
+                    [
+                        2016,
+                        501
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051382,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1876,
+                        477
+                    ],
+                    [
+                        1970,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051381,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1809,
+                        437
+                    ],
+                    [
+                        1913,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051380,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1569,
+                        445
+                    ],
+                    [
+                        1661,
+                        535
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051379,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1412,
+                        356
+                    ],
+                    [
+                        1522,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051378,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1538,
+                        591
+                    ],
+                    [
+                        1617,
+                        694
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051377,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1678,
+                        378
+                    ],
+                    [
+                        1769,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051376,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1706,
+                        266
+                    ],
+                    [
+                        1801,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051375,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1719,
+                        171
+                    ],
+                    [
+                        1819,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051374,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1822,
+                        189
+                    ],
+                    [
+                        1930,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051373,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1287,
+                        198
+                    ],
+                    [
+                        1372,
+                        309
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051372,
+            "classId": 2873661,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "F.Trophozoite",
+            "points": {
+                "exterior": [
+                    [
+                        1440,
+                        61
+                    ],
+                    [
+                        1522,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051371,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1912,
+                        300
+                    ],
+                    [
+                        2004,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051370,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1813,
+                        301
+                    ],
+                    [
+                        1910,
+                        408
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051369,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1771,
+                        375
+                    ],
+                    [
+                        1855,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051368,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1510,
+                        338
+                    ],
+                    [
+                        1600,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051367,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1795,
+                        91
+                    ],
+                    [
+                        1885,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051366,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1654,
+                        122
+                    ],
+                    [
+                        1739,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051365,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1608,
+                        41
+                    ],
+                    [
+                        1711,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051364,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1559,
+                        223
+                    ],
+                    [
+                        1662,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051363,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1582,
+                        283
+                    ],
+                    [
+                        1698,
+                        384
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051362,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1614,
+                        339
+                    ],
+                    [
+                        1703,
+                        450
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051361,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1353,
+                        96
+                    ],
+                    [
+                        1439,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051360,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1226,
+                        129
+                    ],
+                    [
+                        1314,
+                        230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051359,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1132,
+                        18
+                    ],
+                    [
+                        1228,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051358,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1480,
+                        189
+                    ],
+                    [
+                        1556,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051357,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1404,
+                        211
+                    ],
+                    [
+                        1486,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051356,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1347,
+                        265
+                    ],
+                    [
+                        1459,
+                        380
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051355,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1266,
+                        330
+                    ],
+                    [
+                        1357,
+                        428
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051354,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1078,
+                        95
+                    ],
+                    [
+                        1170,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051353,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1749,
+                        18
+                    ],
+                    [
+                        1826,
+                        101
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051352,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1565,
+                        121
+                    ],
+                    [
+                        1645,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051351,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1522,
+                        79
+                    ],
+                    [
+                        1609,
+                        155
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051350,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1302,
+                        34
+                    ],
+                    [
+                        1392,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051349,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1233,
+                        12
+                    ],
+                    [
+                        1308,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051348,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1478,
+                        0
+                    ],
+                    [
+                        1589,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051347,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1680,
+                        0
+                    ],
+                    [
+                        1770,
+                        70
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051346,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1029,
+                        0
+                    ],
+                    [
+                        1132,
+                        46
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051345,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        988,
+                        86
+                    ],
+                    [
+                        1072,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051344,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        896,
+                        67
+                    ],
+                    [
+                        982,
+                        171
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051343,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1072,
+                        193
+                    ],
+                    [
+                        1168,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051342,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1010,
+                        218
+                    ],
+                    [
+                        1097,
+                        299
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051341,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        984,
+                        271
+                    ],
+                    [
+                        1064,
+                        378
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051340,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        861,
+                        356
+                    ],
+                    [
+                        946,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051339,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        871,
+                        291
+                    ],
+                    [
+                        976,
+                        367
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051338,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        855,
+                        201
+                    ],
+                    [
+                        965,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051337,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        770,
+                        194
+                    ],
+                    [
+                        870,
+                        286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051336,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        780,
+                        107
+                    ],
+                    [
+                        888,
+                        200
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051335,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        753,
+                        24
+                    ],
+                    [
+                        860,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051334,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        671,
+                        120
+                    ],
+                    [
+                        770,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051333,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        575,
+                        116
+                    ],
+                    [
+                        660,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051332,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        128
+                    ],
+                    [
+                        476,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051331,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        447,
+                        7
+                    ],
+                    [
+                        545,
+                        91
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051330,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        637,
+                        27
+                    ],
+                    [
+                        730,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051329,
+            "classId": 2873661,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "F.Trophozoite",
+            "points": {
+                "exterior": [
+                    [
+                        476,
+                        97
+                    ],
+                    [
+                        570,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051328,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        542,
+                        0
+                    ],
+                    [
+                        654,
+                        59
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051327,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        29
+                    ],
+                    [
+                        422,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051326,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        165
+                    ],
+                    [
+                        371,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051325,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        95
+                    ],
+                    [
+                        328,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051324,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        161
+                    ],
+                    [
+                        229,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051323,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        135,
+                        74
+                    ],
+                    [
+                        218,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051322,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        700,
+                        0
+                    ],
+                    [
+                        796,
+                        33
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051321,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        848,
+                        0
+                    ],
+                    [
+                        925,
+                        32
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051320,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        928,
+                        0
+                    ],
+                    [
+                        1007,
+                        32
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051319,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        308,
+                        0
+                    ],
+                    [
+                        394,
+                        31
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051318,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1326,
+                        0
+                    ],
+                    [
+                        1417,
+                        31
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051317,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1204,
+                        0
+                    ],
+                    [
+                        1283,
+                        17
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051316,
+            "classId": 2873676,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "O.Cut",
+            "points": {
+                "exterior": [
+                    [
+                        1431,
+                        0
+                    ],
+                    [
+                        1492,
+                        19
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051315,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1491,
+                        525
+                    ],
+                    [
+                        1618,
+                        620
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051314,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1383,
+                        543
+                    ],
+                    [
+                        1483,
+                        643
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051313,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1377,
+                        639
+                    ],
+                    [
+                        1456,
+                        724
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051312,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1439,
+                        604
+                    ],
+                    [
+                        1537,
+                        703
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051311,
+            "classId": 2873665,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "Column",
+            "points": {
+                "exterior": [
+                    [
+                        1049,
+                        317
+                    ],
+                    [
+                        1345,
+                        720
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051310,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1469,
+                        436
+                    ],
+                    [
+                        1560,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051309,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1430,
+                        485
+                    ],
+                    [
+                        1530,
+                        569
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 650051308,
+            "classId": 2873660,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "ansaril3g",
+            "createdAt": "2021-04-07T18:55:46.963Z",
+            "updatedAt": "2021-04-07T18:55:46.963Z",
+            "tags": [],
+            "classTitle": "R.RBC",
+            "points": {
+                "exterior": [
+                    [
+                        1378,
+                        463
+                    ],
+                    [
+                        1442,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
